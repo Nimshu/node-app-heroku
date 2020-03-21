@@ -1,1 +1,1 @@
-web: npm install && node test.js
+web: node index.js
